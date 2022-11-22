@@ -10,7 +10,7 @@ int main() {
      for (int i=0; i<n; i++) {
         c = a+b;
         a = b;
-        b =c;
+        b = c;
         cout << c << endl;
      }
     }
